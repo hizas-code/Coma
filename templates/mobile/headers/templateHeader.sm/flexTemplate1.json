@@ -1,13 +1,8 @@
 {
     "DNDConfig": null,
-    "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "220dp"
-    },
-    "_left_": {
-        "type": "string",
-        "value": "3dp"
+        "value": "20%"
     },
     "_margin_": [
         0,
@@ -23,32 +18,29 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "sd2d257c847946728082f454b59cd6bd",
-    "_top_": {
-        "type": "string",
-        "value": "8dp"
-    },
-    "_width_": {
-        "type": "string",
-        "value": "100%"
-    },
+    "_skin_": "s6fe17e202e049b4b1d949d614ab5c21",
     "allboxes": [],
+    "autogrowmode": 0,
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "buttonTemplateBeranda",
+        "buttonTemplateLombaku",
+        "buttonTemplateJelajahi"
+    ],
     "clipbounds": true,
+    "containerId": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "FlexContainer0edc8d9d0bab44a",
+    "id": "flexTemplate1",
     "info": null,
     "isvisible": true,
-    "kuid": "d917d7c1f60f430fb8d2014854da394e",
+    "kuid": "de02c0ccdca24407904d075d6bc28767",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "HomeForm",
-    "pf": "HomeForm",
+    "parent": "templateHeader",
+    "pf": "templateHeader",
     "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",
-    "widgetalignment": 1,
-    "zindex": 1
+    "widgetalignment": 6
 }
