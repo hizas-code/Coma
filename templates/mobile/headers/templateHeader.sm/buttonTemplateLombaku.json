@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "120dp"
+        "value": "118dp"
     },
     "_margin_": [
         6,
@@ -22,11 +22,11 @@
         0,
         0
     ],
-    "_skin_": "sf50255002e842c2a93463e1680a21ee",
+    "_skin_": "s9b3e2a9c80d4ea99c7a1fdfed5e0805",
     "_text_": "Lombaku",
     "_top_": {
         "type": "string",
-        "value": "7dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",

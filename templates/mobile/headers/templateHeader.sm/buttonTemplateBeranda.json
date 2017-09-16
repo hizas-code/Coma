@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "2dp"
+        "value": "0dp"
     },
     "_margin_": [
         6,
@@ -22,11 +22,11 @@
         0,
         0
     ],
-    "_skin_": "sf50255002e842c2a93463e1680a21ee",
+    "_skin_": "sec7c4d9d1e64d49b7084249fa40c01c",
     "_text_": "Beranda",
     "_top_": {
         "type": "string",
-        "value": "7dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
