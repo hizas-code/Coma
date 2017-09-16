@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "27dp"
+        "value": "118dp"
     },
     "_margin_": [
         6,
@@ -22,27 +22,27 @@
         0,
         0
     ],
-    "_skin_": "sf50255002e842c2a93463e1680a21ee",
-    "_text_": "Button",
+    "_skin_": "s9b3e2a9c80d4ea99c7a1fdfed5e0805",
+    "_text_": "Lombaku",
     "_top_": {
         "type": "string",
-        "value": "10dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
-        "value": "260dp"
+        "value": "34%"
     },
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
     "focusskin": "s44d54b5b33643a1b5b87b91b6183dfb",
-    "id": "Button0d5d4ed1421464a",
+    "id": "buttonTemplateLombaku",
     "info": null,
     "isvisible": true,
-    "kuid": "e10e88344b5d451586327d7a442dc307",
+    "kuid": "he08ca03a0f1453884077da88e898901",
     "name": "kony.ui.Button",
-    "parent": "FlexContainer1",
+    "parent": "flexTemplate1",
     "pf": "HomeForm",
     "wType": "Button",
     "zindex": 1

@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "239dp"
+        "value": "0dp"
     },
     "_margin_": [
         6,
@@ -22,29 +22,28 @@
         0,
         0
     ],
-    "_skin_": "s50b84946ab14145b95a932df18a9c53",
-    "_text_": "Jelajahi",
+    "_skin_": "sec7c4d9d1e64d49b7084249fa40c01c",
+    "_text_": "Beranda",
     "_top_": {
         "type": "string",
         "value": "0dp"
     },
     "_width_": {
         "type": "string",
-        "value": "35%"
+        "value": "33%"
     },
     "canUpdateUI": true,
-    "containerId": true,
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
     "focusskin": "s44d54b5b33643a1b5b87b91b6183dfb",
-    "id": "buttonTemplateJelajahi",
+    "id": "buttonTemplateBeranda",
     "info": null,
     "isvisible": true,
-    "kuid": "i39e821846fa42d79fa46670e7eb530e",
+    "kuid": "j8594a8dcf3d4511990cdbdd686ac251",
     "name": "kony.ui.Button",
     "parent": "flexTemplate1",
-    "pf": "templateHeader",
+    "pf": "HomeForm",
     "wType": "Button",
     "zindex": 1
 }

@@ -33,7 +33,6 @@
         "value": "35%"
     },
     "canUpdateUI": true,
-    "containerId": true,
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
@@ -41,10 +40,10 @@
     "id": "buttonTemplateJelajahi",
     "info": null,
     "isvisible": true,
-    "kuid": "i39e821846fa42d79fa46670e7eb530e",
+    "kuid": "e831f069c0874e71b8de5ada241c05cd",
     "name": "kony.ui.Button",
     "parent": "flexTemplate1",
-    "pf": "templateHeader",
+    "pf": "HomeForm",
     "wType": "Button",
     "zindex": 1
 }
