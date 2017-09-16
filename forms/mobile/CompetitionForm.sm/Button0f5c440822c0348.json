@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "37dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sf50255002e842c2a93463e1680a21ee",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "28dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s44d54b5b33643a1b5b87b91b6183dfb",
+    "id": "Button0f5c440822c0348",
+    "info": null,
+    "isvisible": true,
+    "kuid": "c52c90ec7edd492d91bf58c45e5e0527",
+    "name": "kony.ui.Button",
+    "parent": "flexTitle",
+    "pf": "CompetitionForm",
+    "wType": "Button",
+    "zindex": 1
+}
