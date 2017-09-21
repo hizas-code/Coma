@@ -6,10 +6,10 @@
     "apppackagekey": "",
     "appaddrkey": "",
     "nativeContainerProperties": {
+        "isModified": true,
+        "isEnableJSContainer": false,
         "isEnableJSContainerAndroid": false,
-        "isModified": false,
-        "isEnableJSContaineriOS": false,
-        "isEnableJSContainer": false
+        "isEnableJSContaineriOS": false
     },
     "appnamekey": "Coma",
     "currentgaversion": "7.3.0",

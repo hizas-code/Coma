@@ -38,7 +38,14 @@
     "canUpdateUI": true,
     "clipbounds": true,
     "containerweight": 0,
-    "data": {},
+    "data": {
+        "logoSource": "coma.png",
+        "socialLoginCenterY": {
+            "type": "string",
+            "value": "88%"
+        },
+        "touchIDProperty": false
+    },
     "id": "login",
     "info": null,
     "isvisible": true,
