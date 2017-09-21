@@ -40,6 +40,7 @@
     "containerweight": 0,
     "data": {
         "logoSource": "coma.png",
+        "remembermeProperty": true,
         "socialLoginCenterY": {
             "type": "string",
             "value": "88%"

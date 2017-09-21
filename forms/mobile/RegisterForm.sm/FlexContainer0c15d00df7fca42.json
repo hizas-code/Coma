@@ -1,0 +1,67 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "92.14%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s2314a6615954d52aae455e7792eb159",
+    "_top_": "0dp",
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": "50%",
+    "children": [
+        "Label0bd792ca321a243",
+        "Label0f6decc854fd44c",
+        "Label0e1209e79cc5648",
+        "Label0aa1066f47d2544",
+        "textAreaNama",
+        "textAreaUsername",
+        "textAreaPassword",
+        "textAreaOrganisasi",
+        "TextField0d49c62720e684b",
+        "CopyTextField0b1e23ed5ab564e",
+        "CopyTextField0ceae84b4621140",
+        "CopyTextField0b51f16833b134d",
+        "Button0f7062d43c85f42"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "FlexContainer0c15d00df7fca42",
+    "info": null,
+    "isvisible": true,
+    "kuid": "b430c03497f944adbaa16745207ac739",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "RegisterForm",
+    "pf": "RegisterForm",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

@@ -26,8 +26,7 @@
     },
     "canUpdateUI": true,
     "children": [
-        "login",
-        "registerButton"
+        "FlexContainer0c15d00df7fca42"
     ],
     "containerweight": 100,
     "currentLocale": "default",
@@ -37,7 +36,7 @@
     "device": "GalaxyS5",
     "displayorientation": 1,
     "enabledforidletimeout": false,
-    "id": "LoginForm",
+    "id": "RegisterForm",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
@@ -68,7 +67,7 @@
         "titleBar": true
     },
     "isvisible": true,
-    "kuid": "cc50e523f575443b98633ae4d76347e9",
+    "kuid": "a9aa8673f27b425abb530951281540ae",
     "layouttype": 2,
     "name": "kony.ui.Form2",
     "needappmenu": true,
