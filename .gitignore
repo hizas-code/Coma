@@ -19,3 +19,4 @@ HeadlessBuild-Global.properties
 
 # Visualizer modules which are automatically re-created when missing
 modules/mbaasconfig.js
+projectProperties.json
