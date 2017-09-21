@@ -7930,7 +7930,8 @@ kony.sdk.metric.flushEvents = function() {
 	payload.svcid = "SendEvents";
 	payload.rsid = kony.sdk.metric.reportEventBufferBackupArray[0].SID;
 	params.konyreportingparams = JSON.stringify(payload);
-	kony.net.invokeServiceAsync(kony.sdk.currentInstance.customReportingURL, params, flushCallback);
+//kony.net.invokeServiceAsync/kony.net.invokeService are depricated, replacing with new APIs wrapper
+	_invokeServiceAsyncForMF_(kony.sdk.currentInstance.customReportingURL, params, flushCallback);
 
 	function flushCallback(status, response) {
 		if (status === 400) {
@@ -9204,7 +9205,8 @@ function MetricsService(konyRef) {
 		params.konyreportingparams = JSON.stringify(payload);
         //Appending global params
         url = konyRef.appendGlobalParams(url, headers, params);
-		kony.net.invokeServiceAsync(kony.sdk.currentInstance.customReportingURL, params, flushCallback);
+//kony.net.invokeServiceAsync/kony.net.invokeService are depricated, replacing with new APIs wrapper
+		_invokeServiceAsyncForMF_(kony.sdk.currentInstance.customReportingURL, params, flushCallback);
 
 		function flushCallback(status, response) {
 			if (status === 400) {

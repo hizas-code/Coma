@@ -16935,7 +16935,8 @@ kony.sync.invokeServiceAsync = function(url, params, callback, context) {
 				var timeoutValue = 0;
 				var paramsHttpheaders = null;
 				if (kony.sync.isPhonegap || deviceInfo.osversion < 7) {
-					kony.net.invokeServiceAsync(url, params, callback, context);
+//kony.net.invokeServiceAsync/kony.net.invokeService are depricated, replacing with new APIs wrapper
+					_invokeServiceAsyncForMF_(url, params, callback, context);
 				} else {
 					if(!kony.net.isNetworkAvailable(constants.NETWORK_TYPE_ANY) ) {
 						var response = {'opstatus':1011, 'errmsg':"Device has no WIFI or mobile connectivity. Please try the operation after establishing connectivity."};
@@ -16997,7 +16998,8 @@ kony.sync.invokeServiceAsync = function(url, params, callback, context) {
 					httprequest.send(paramsTable);
 				}
 				//#else
-				kony.net.invokeServiceAsync(url, params, callback, context);
+//kony.net.invokeServiceAsync/kony.net.invokeService are depricated, replacing with new APIs wrapper
+				_invokeServiceAsyncForMF_(url, params, callback, context);
 				//#endif
 			} else {
 				kony.sync.currentSyncConfigParams[kony.sync.invokeServiceFunctionKey](url, params, callback, context);
