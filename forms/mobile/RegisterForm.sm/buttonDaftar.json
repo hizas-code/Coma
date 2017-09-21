@@ -23,7 +23,7 @@
         0
     ],
     "_skin_": "s4a6b6dbd26648b3b0c27acd7cbc56ea",
-    "_text_": "Button",
+    "_text_": "DAFTAR",
     "_top_": {
         "type": "string",
         "value": "483dp"
@@ -35,13 +35,14 @@
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "50%"
+        "value": "50.00%"
     },
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
     "focusskin": "s44d54b5b33643a1b5b87b91b6183dfb",
-    "id": "Button0f7062d43c85f42",
+    "id": "buttonDaftar",
+    "ide_onClick": "AS_Button_b260bf4bcf104753bdc83d9820ee2a87",
     "info": null,
     "isvisible": true,
     "kuid": "e44a1b42ca5448b89458e774404c043c",

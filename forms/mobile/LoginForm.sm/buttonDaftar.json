@@ -23,7 +23,7 @@
         0
     ],
     "_skin_": "s2ffdcfab50c4805bbf2836642cc8829",
-    "_text_": "Register",
+    "_text_": "Daftar",
     "_top_": {
         "type": "string",
         "value": "391dp"
@@ -42,7 +42,8 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "registerButton",
+    "id": "buttonDaftar",
+    "ide_onTouchStart": "AS_Label_c3b90d08d0fb43f9bb9e3817c2b39d87",
     "info": null,
     "ipad": {
         "psp": {

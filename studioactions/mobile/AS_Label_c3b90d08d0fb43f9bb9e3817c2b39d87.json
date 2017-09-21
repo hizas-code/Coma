@@ -1,0 +1,34 @@
+{
+    "AS_Label_c3b90d08d0fb43f9bb9e3817c2b39d87": {
+        "id": "AS_Label_c3b90d08d0fb43f9bb9e3817c2b39d87",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "LoginForm",
+            "type": "forms",
+            "platform": "",
+            "KUID": "cc50e523f575443b98633ae4d76347e9"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___bbc0404b77b2498981059708b03882ab",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "RegisterForm",
+            "formKUID": "a9aa8673f27b425abb530951281540ae",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "92.14%"
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
@@ -32,7 +32,7 @@
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
-    "centerx": "50%",
+    "centerx": "50.00%",
     "children": [
         "Label0bd792ca321a243",
         "Label0f6decc854fd44c",
@@ -46,7 +46,7 @@
         "CopyTextField0b1e23ed5ab564e",
         "CopyTextField0ceae84b4621140",
         "CopyTextField0b51f16833b134d",
-        "Button0f7062d43c85f42"
+        "buttonDaftar"
     ],
     "clipbounds": true,
     "containerweight": 100,
