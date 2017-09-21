@@ -17,4 +17,4 @@ var login = new component.ui.login({
             login.linkedInLogin = true;            
 /*Adding the Component to the Form*/
             this.view.add(login);
-/*Adding the Component to the Form*/
+/*Adding the Component to the Form heheheh, you should try this one*/
