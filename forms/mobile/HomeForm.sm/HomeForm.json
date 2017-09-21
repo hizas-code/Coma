@@ -28,7 +28,7 @@
     "canUpdateUI": true,
     "children": [
         "FlexContainer1",
-        "Segment0aea0b29f70af4f"
+        "SegmentTimeline"
     ],
     "containerweight": 100,
     "currentLocale": "default",

@@ -5,11 +5,11 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "150dp"
+        "value": "360dp"
     },
     "_left_": {
         "type": "string",
-        "value": "103dp"
+        "value": "0dp"
     },
     "_margin_": [
         0,
@@ -31,7 +31,7 @@
     },
     "_width_": {
         "type": "string",
-        "value": "150dp"
+        "value": "360dp"
     },
     "canUpdateUI": true,
     "containerId": true,
@@ -42,7 +42,7 @@
         "templateType": "segments",
         "topLevelBox": null
     },
-    "id": "Image0e710c9e6438143",
+    "id": "imageLomba",
     "imagescalemode": 1,
     "info": null,
     "isSegmentChild": true,

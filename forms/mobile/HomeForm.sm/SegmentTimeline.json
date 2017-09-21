@@ -4,7 +4,11 @@
     "__parentReadjusting__": false,
     "_data_": [
         {
-            "Image0e710c9e6438143": {
+            "RichText0a4b24dd6243e48": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "RichText"
+            },
+            "imageLomba": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
                 "src": "imagedrag.png"
             },
@@ -14,7 +18,11 @@
             }
         },
         {
-            "Image0e710c9e6438143": {
+            "RichText0a4b24dd6243e48": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "RichText"
+            },
+            "imageLomba": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
                 "src": "imagedrag.png"
             },
@@ -24,7 +32,11 @@
             }
         },
         {
-            "Image0e710c9e6438143": {
+            "RichText0a4b24dd6243e48": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "RichText"
+            },
+            "imageLomba": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
                 "src": "imagedrag.png"
             },
@@ -36,7 +48,7 @@
     ],
     "_height_": {
         "type": "string",
-        "value": "373dp"
+        "value": "90%"
     },
     "_indicator_": "none",
     "_left_": {
@@ -58,7 +70,7 @@
     ],
     "_top_": {
         "type": "string",
-        "value": "53dp"
+        "value": "10%"
     },
     "_width_": {
         "type": "string",
@@ -80,7 +92,7 @@
     "generatedtemplate": "i52085cfee8f440bb618f137d45916af",
     "groupcells": false,
     "hasSections": false,
-    "id": "Segment0aea0b29f70af4f",
+    "id": "SegmentTimeline",
     "info": null,
     "ipad": {
         "psp": {
@@ -127,7 +139,8 @@
     "wType": "Segment",
     "widgetalignment": 5,
     "widgetdatamap": {
-        "Image0e710c9e6438143": "Image0e710c9e6438143",
+        "RichText0a4b24dd6243e48": "RichText0a4b24dd6243e48",
+        "imageLomba": "imageLomba",
         "namaLomba": "namaLomba"
     },
     "zindex": 1

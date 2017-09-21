@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "40dp"
+        "value": "500dp"
     },
     "_margin_": [
         0,
@@ -23,10 +23,12 @@
         "value": "100%"
     },
     "allboxes": [],
+    "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
         "namaLomba",
-        "Image0e710c9e6438143"
+        "imageLomba",
+        "RichText0a4b24dd6243e48"
     ],
     "clipbounds": false,
     "containerId": true,
