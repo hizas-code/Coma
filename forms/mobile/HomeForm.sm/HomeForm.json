@@ -27,7 +27,8 @@
     },
     "canUpdateUI": true,
     "children": [
-        "FlexContainer1"
+        "FlexContainer1",
+        "Segment0aea0b29f70af4f"
     ],
     "containerweight": 100,
     "currentLocale": "default",
